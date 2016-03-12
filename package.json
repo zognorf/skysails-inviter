@@ -15,5 +15,18 @@
     "morgan": "^1.6.0",
     "request": "^2.62.0",
     "serve-favicon": "^2.3.0"
-  }
+  },
+  "description": "Slack Invite Automation ------------",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zognorf/skysails-inviter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zognorf/skysails-inviter/issues"
+  },
+  "homepage": "https://github.com/zognorf/skysails-inviter#readme"
 }
